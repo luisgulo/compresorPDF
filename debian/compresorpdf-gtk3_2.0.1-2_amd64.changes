@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 11 Oct 2019 12:00:00 +0000
+Source: compresorpdf-gtk3
+Binary: compresorpdf-gtk3
+Architecture: source all
+Version: 2.0.1-2
+Distribution: unstable
+Urgency: low
+Maintainer: luisgulo <luisgulo@gmail.com>
+Changed-By: luisgulo <luisgulo@gmail.com>
+Description:
+ compresorpdf-gtk3 - gtk3 package for Compresor PDF
+Changes:
+ compresorpdf-gtk3 (2.0.1-2) unstable; urgency=low
+ .
+   * Final version with minor patches
+Checksums-Sha1:
+ 37b5f5e091822e3e0e2a412cba03e4af2bcb31f8 564 compresorpdf-gtk3_2.0.1-2.dsc
+ 2639e6701ffae639c929dd8eb87d922578672589 1105 compresorpdf-gtk3_2.0.1-2.tar.gz
+ f00d02e06a7ee9a30f121cd1443408a81431adfc 1616 compresorpdf-gtk3_2.0.1-2_all.deb
+ 9eca3c3d78d060e53ab33a5d81b9a8cc7fdbc83b 5244 compresorpdf-gtk3_2.0.1-2_amd64.buildinfo
+Checksums-Sha256:
+ 64477b730853f8b0b3eb8447b2501417599198018197917998619998dbddea07 564 compresorpdf-gtk3_2.0.1-2.dsc
+ 873df222fd315a1b3c0110c1db5e7df775ad1d76552c02401fab349c1837796f 1105 compresorpdf-gtk3_2.0.1-2.tar.gz
+ 72f30bbfaa90280067bf802f83a57779d290b293d58b94c5c95438f8f54694eb 1616 compresorpdf-gtk3_2.0.1-2_all.deb
+ 38e8fa759f9623ea6fa6fbdb2051aa3c556835e758e3ff2dd0da272b5195f727 5244 compresorpdf-gtk3_2.0.1-2_amd64.buildinfo
+Files:
+ 8802c73af2724a1b0405d8a67746c014 564 contrib/utils optional compresorpdf-gtk3_2.0.1-2.dsc
+ 8635aa6c58795fc127650d815e913986 1105 contrib/utils optional compresorpdf-gtk3_2.0.1-2.tar.gz
+ 8d48a6a1c25f92112999953db3bca3aa 1616 contrib/utils optional compresorpdf-gtk3_2.0.1-2_all.deb
+ 1ab8de71dcbfaa6bfbf6b03143e9776b 5244 contrib/utils optional compresorpdf-gtk3_2.0.1-2_amd64.buildinfo

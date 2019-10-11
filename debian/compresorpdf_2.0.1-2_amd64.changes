@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 11 Oct 2019 12:00:00 +0000
+Source: compresorpdf
+Binary: compresorpdf
+Architecture: source all
+Version: 2.0.1-2
+Distribution: unstable
+Urgency: low
+Maintainer: luisgulo <luisgulo@gmail.com>
+Changed-By: luisgulo <luisgulo@gmail.com>
+Description:
+ compresorpdf - Programa que permite reducir el 'peso' de un PDF
+Changes:
+ compresorpdf (2.0.1-2) unstable; urgency=low
+ .
+   * Final version with minor patches
+Checksums-Sha1:
+ c5fe8f8146a9908a96365231ee31f30add3bf588 1058 compresorpdf_2.0.1-2.dsc
+ b407cab7f162723a93bbb16e1715d3b211744e6e 1607 compresorpdf_2.0.1-2.diff.gz
+ 4155171ef8ba7a1ac5a2fd96658a9d9d0b9208ae 204080 compresorpdf_2.0.1-2_all.deb
+ fedf98a1c4f19123bdc165004691924af0e18aa0 11226 compresorpdf_2.0.1-2_amd64.buildinfo
+Checksums-Sha256:
+ bf7594b715dded97d01843898f762920579bcc89fe9ee9da5fb05872bdfacedb 1058 compresorpdf_2.0.1-2.dsc
+ 29b38e5194cb393ba7e159ada659e29f1bb8acffae57b98de2ac2a1a46034b2f 1607 compresorpdf_2.0.1-2.diff.gz
+ 7f70d8622f357d3c5e68206129db12b5ada09b819eb0ede8cfac8ea4370232f7 204080 compresorpdf_2.0.1-2_all.deb
+ c407e0364af864ec2c815373ab4fd98bdb5f08bc35cb16a906844b749275dc17 11226 compresorpdf_2.0.1-2_amd64.buildinfo
+Files:
+ ca10beb76f222f6aa6304036925a13af 1058 contrib/utils optional compresorpdf_2.0.1-2.dsc
+ e2370594f77a731c14dda63874a5c096 1607 contrib/utils optional compresorpdf_2.0.1-2.diff.gz
+ 171d63f7e8f6f1ee1f4d07b0a6e3038d 204080 contrib/utils optional compresorpdf_2.0.1-2_all.deb
+ c643cc39413d1be52b07e01fc5709925 11226 contrib/utils optional compresorpdf_2.0.1-2_amd64.buildinfo

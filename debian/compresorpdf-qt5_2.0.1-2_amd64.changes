@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 11 Oct 2019 12:00:00 +0000
+Source: compresorpdf-qt5
+Binary: compresorpdf-qt5
+Architecture: source all
+Version: 2.0.1-2
+Distribution: unstable
+Urgency: low
+Maintainer: luisgulo <luisgulo@gmail.com>
+Changed-By: luisgulo <luisgulo@gmail.com>
+Description:
+ compresorpdf-qt5 - qt5 package for Compresor PDF
+Changes:
+ compresorpdf-qt5 (2.0.1-2) unstable; urgency=low
+ .
+   * Final version with minor patches
+Checksums-Sha1:
+ e816f08cea5a87f8a0fe100ae81f0bd77a95e633 558 compresorpdf-qt5_2.0.1-2.dsc
+ 31393655b8cdec400d956bad7a2501317d40fe73 1101 compresorpdf-qt5_2.0.1-2.tar.gz
+ d80b9c08c4b0c67f5efdcd18fa8b47e81c457c10 1616 compresorpdf-qt5_2.0.1-2_all.deb
+ e24a0e5d205289c94db2d2168aa3937ce35942d0 5236 compresorpdf-qt5_2.0.1-2_amd64.buildinfo
+Checksums-Sha256:
+ 24f29773d10fd940d12adf00db20d4217337ba1538dc7782ee8b1bc7ada3c202 558 compresorpdf-qt5_2.0.1-2.dsc
+ 580509eb4259da42748d4c3c4cb3b5adbaed77a3fb88b1b7ecfb16886f961a82 1101 compresorpdf-qt5_2.0.1-2.tar.gz
+ 7631e4371f290e32beef245eecc1c3ce9d28f72efb9253ae81ad295c9a912569 1616 compresorpdf-qt5_2.0.1-2_all.deb
+ 98ded44e4c652773bc80996357542f038b89d4434097a53db6907d5032c26495 5236 compresorpdf-qt5_2.0.1-2_amd64.buildinfo
+Files:
+ cff31c0ee80bfe20eab8bcd28edcae64 558 contrib/utils optional compresorpdf-qt5_2.0.1-2.dsc
+ 9770cab54a1f1883e7d0215049cda853 1101 contrib/utils optional compresorpdf-qt5_2.0.1-2.tar.gz
+ 8c4992a47c17f390f3060f6812163d32 1616 contrib/utils optional compresorpdf-qt5_2.0.1-2_all.deb
+ 5e2ab06a92dc3a71ce0037f426f16617 5236 contrib/utils optional compresorpdf-qt5_2.0.1-2_amd64.buildinfo

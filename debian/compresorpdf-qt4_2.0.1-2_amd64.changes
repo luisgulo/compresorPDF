@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 11 Oct 2019 12:00:00 +0000
+Source: compresorpdf-qt4
+Binary: compresorpdf-qt4
+Architecture: source all
+Version: 2.0.1-2
+Distribution: unstable
+Urgency: low
+Maintainer: luisgulo <luisgulo@gmail.com>
+Changed-By: luisgulo <luisgulo@gmail.com>
+Description:
+ compresorpdf-qt4 - qt4 package for Compresor PDF
+Changes:
+ compresorpdf-qt4 (2.0.1-2) unstable; urgency=low
+ .
+   * Final version with minor patches
+Checksums-Sha1:
+ 807af2df4d9a9fb1b0072e4b4b5b9f0a6f99e2ef 558 compresorpdf-qt4_2.0.1-2.dsc
+ 50ed01bfd503d9e4b185c3de72f7bb6328435030 1100 compresorpdf-qt4_2.0.1-2.tar.gz
+ 3115b2678a5d5c7c8d454054d222ca56988a243c 1616 compresorpdf-qt4_2.0.1-2_all.deb
+ 724d605b44bd015895393f129fcacc5459cee121 5236 compresorpdf-qt4_2.0.1-2_amd64.buildinfo
+Checksums-Sha256:
+ 0d9457c116754274f9c4016b4a543f2a10af4cdabaa3bdaa788c45afe2b31c08 558 compresorpdf-qt4_2.0.1-2.dsc
+ 004991f66cf46d174a294e547a0a951fe30b0fe9dd61ad4999aeb4238b29c48f 1100 compresorpdf-qt4_2.0.1-2.tar.gz
+ fb6df00a077775defefadb8108f1bf5bfb0b0713079a014ead48f96c38ca3124 1616 compresorpdf-qt4_2.0.1-2_all.deb
+ 31b3646b23e5a3ec325d9e6249edfa9ee37663b5d45107a9a94ec8a5ec96dbc4 5236 compresorpdf-qt4_2.0.1-2_amd64.buildinfo
+Files:
+ 9be1a5a4bc7c4f7bce58b253fee7661c 558 contrib/utils optional compresorpdf-qt4_2.0.1-2.dsc
+ bd8570b44f62eb175afe75eb7e83f154 1100 contrib/utils optional compresorpdf-qt4_2.0.1-2.tar.gz
+ ccf0591b06d728e9eb4730d32f389924 1616 contrib/utils optional compresorpdf-qt4_2.0.1-2_all.deb
+ 4253dc26bc669ea0d8a0e41f4fbcfc86 5236 contrib/utils optional compresorpdf-qt4_2.0.1-2_amd64.buildinfo
