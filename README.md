@@ -8,7 +8,7 @@ Nuevo: Reducción del peso de los PDFs con imagenes incrustadas
 
 Utiliza Ghostscript y Graphics Magic para una optimización completa
 
-
+-----------------------------
 
 PDF Compressor for Linux. Created with Gambas 3.12
 
