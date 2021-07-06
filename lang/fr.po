@@ -1,0 +1,118 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CompresorPDF 3.12.2\n"
+"POT-Creation-Date: 2021-07-06 11:06 UTC\n"
+"PO-Revision-Date: 2021-07-06 11:15 UTC\n"
+"Last-Translator: charlie <charlie@fujitsu>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 FMain.form:22
+msgid "Compresor PDF"
+msgstr "Compresseur PDF"
+
+#: .project:2
+msgid ""
+"Programa que permite reducir el 'peso' (bytes) de un PDF\n"
+"Program that allows to reduce the 'weight' (bytes) of a PDF\n"
+"\n"
+"\n"
+msgstr ""
+"Programme qui permet de réduire le 'poids' (octets) d'un PDF  nProgramme qui permet de réduire le 'poids' (octets) d'un PDF\n"
+"\n"
+"\n"
+
+#: FMain.class:54
+msgid "Chequeo de Herramientas"
+msgstr ""
+"Vérification de l'outil\n"
+"\n"
+
+#: FMain.class:81
+msgid "Error - Fichero PDF"
+msgstr "Erreur - Fichier PDF"
+
+#: FMain.class:93
+msgid "PDF_Comprimido-"
+msgstr "PDF_Compresse-"
+
+#: FMain.class:114
+msgid "Compresión Finalizada"
+msgstr "Compression terminée"
+
+#: FMain.class:148
+msgid "Versión: "
+msgstr "Version: "
+
+#: FMain.form:40
+msgid "Aplicación para Reducir el peso de los PDF"
+msgstr "Application pour réduire le poids des PDF"
+
+#: FMain.form:47
+msgid "Escoja Tipo de Compresión del PDF"
+msgstr "Choisissez le type de compression PDF"
+
+#: FMain.form:51
+msgid "Salida optimizada para eBook"
+msgstr ""
+"Sortie eBook optimisée\n"
+"\n"
+
+#: FMain.form:57
+msgid "Salida optimizada para Pantalla"
+msgstr "Sortie optimisée pour l'écran"
+
+#: FMain.form:62
+msgid "Salida optimizada para Imprimir"
+msgstr "Sortie optimisée pour l'impression"
+
+#: FMain.form:67
+msgid "Optimización por Defecto (Pantalla + Imprimir)"
+msgstr "Optimisation par défaut (écran + impression)"
+
+#: FMain.form:72
+msgid "Optimización Máxima (Ligera pérdida de calidad)"
+msgstr "Optimisation maximale (légère perte de qualité)"
+
+#: FMain.form:77
+msgid "Optimizar PDF generado a partir de Imágenes"
+msgstr "Optimiser le PDF généré à partir d'images"
+
+#: FMain.form:83
+msgid "Seleccionar PDF"
+msgstr "Sélectionnez PDF"
+
+#: FMain.form:90
+msgid "Salir"
+msgstr "Sortir"
+
+#: FMain.form:95
+msgid "Comprimir PDF"
+msgstr "Compresser un PDF"
+
+#: FMain.form:105
+msgid "Versión x.y.z"
+msgstr "Version x.y.z"
+
+#: frmSeleccionarPDF.class:6
+msgid "Ficheros PDF"
+msgstr "Fichiers PDF"
+
+#: frmSeleccionarPDF.class:30
+msgid "ERROR - Fichero PDF"
+msgstr "ERREUR- Fichier PDF"
+
+#: frmSeleccionarPDF.form:10
+msgid "Seleccione un PDF"
+msgstr "Sélectionnez un PDF"
+
+#: frmSeleccionarPDF.form:20
+msgid "Cancelar"
+msgstr "Annuler"
+
+#: frmSeleccionarPDF.form:25
+msgid "Aceptar"
+msgstr "Accepter"
