@@ -1,0 +1,114 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CompresorPDF 3.12.2\n"
+"POT-Creation-Date: 2021-07-06 11:06 UTC\n"
+"PO-Revision-Date: 2019-10-22 12:28 UTC\n"
+"Last-Translator: luisgulo <luisgulo@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 FMain.form:22
+msgid "Compresor PDF"
+msgstr "PDF compressor"
+
+#: .project:2
+msgid ""
+"Programa que permite reducir el 'peso' (bytes) de un PDF\n"
+"Program that allows to reduce the 'weight' (bytes) of a PDF\n"
+"\n"
+"\n"
+msgstr ""
+
+#: FMain.class:54
+msgid "Chequeo de Herramientas"
+msgstr "Tool Check"
+
+#: FMain.class:81
+msgid "Error - Fichero PDF"
+msgstr "Error - PDF file"
+
+#: FMain.class:93
+msgid "PDF_Comprimido-"
+msgstr "Compressed_PDF-"
+
+#: FMain.class:114
+msgid "Compresión Finalizada"
+msgstr "Compression Finished"
+
+#: FMain.class:148
+msgid "Versión: "
+msgstr "Version: "
+
+#: FMain.form:40
+msgid "Aplicación para Reducir el peso de los PDF"
+msgstr "Application to reduce the weight of PDFs"
+
+#: FMain.form:47
+msgid "Escoja Tipo de Compresión del PDF"
+msgstr "Choose PDF Compression Type"
+
+#: FMain.form:51
+msgid "Salida optimizada para eBook"
+msgstr "Optimized output for eBook"
+
+#: FMain.form:57
+msgid "Salida optimizada para Pantalla"
+msgstr "Screen optimized output"
+
+#: FMain.form:62
+msgid "Salida optimizada para Imprimir"
+msgstr "Print optimized output"
+
+#: FMain.form:67
+msgid "Optimización por Defecto (Pantalla + Imprimir)"
+msgstr "Default Optimization (Screen + Print)"
+
+#: FMain.form:72
+msgid "Optimización Máxima (Ligera pérdida de calidad)"
+msgstr "Maximum Optimization (Slight loss of quality)"
+
+#: FMain.form:77
+msgid "Optimizar PDF generado a partir de Imágenes"
+msgstr "Optimize PDF generated from Images"
+
+#: FMain.form:83
+msgid "Seleccionar PDF"
+msgstr "Select PDF"
+
+#: FMain.form:90
+msgid "Salir"
+msgstr "Exit"
+
+#: FMain.form:95
+msgid "Comprimir PDF"
+msgstr "Compress PDF"
+
+#: FMain.form:105
+msgid "Versión x.y.z"
+msgstr "Version x.y.z"
+
+#: frmSeleccionarPDF.class:6
+msgid "Ficheros PDF"
+msgstr "PDF files"
+
+#: frmSeleccionarPDF.class:30
+msgid "ERROR - Fichero PDF"
+msgstr "ERROR - PDF file"
+
+#: frmSeleccionarPDF.form:10
+msgid "Seleccione un PDF"
+msgstr "Select PDF"
+
+#: frmSeleccionarPDF.form:20
+msgid "Cancelar"
+msgstr "Cancel"
+
+#: frmSeleccionarPDF.form:25
+msgid "Aceptar"
+msgstr "Ok"
+
+#~ msgid "Programa que permite reducir el 'peso' de un PDF"
+#~ msgstr "Program that allows to reduce the 'weight' of a PDF"
